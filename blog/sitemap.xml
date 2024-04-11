@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2024-04-11T07:17:03-00:00</lastmod>
+<lastmod>2024-04-11T07:21:16-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2024-04-11T07:17:03-00:00</lastmod>
+<lastmod>2024-04-11T07:21:16-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2024-04-11T07:17:03-00:00</lastmod>
+<lastmod>2024-04-11T07:21:16-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2024-04-11T07:17:03-00:00</lastmod>
+<lastmod>2024-04-11T07:21:16-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -34,6 +34,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>./pages/about/</loc>
 <lastmod>2024-04-11T06:12:52+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./40971220 W6.html</loc>
+<lastmod>2024-04-11T07:20:48+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -109,6 +116,20 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>./category/w6.html</loc>
+<lastmod>2024-04-11T07:20:48+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/shuo-ming-xie-tong-nx-ling-zu-jian-hui-tu-yi-ji-coppeliasim-chang-jing-mo-ni-xiang-guan-dang-an-ge-shi.html</loc>
+<lastmod>2024-04-11T07:20:48+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>./tag/tong-zheng-wang-zhi.html</loc>
 <lastmod>2024-04-11T07:16:40+08:06</lastmod>
 <changefreq>daily</changefreq>
@@ -145,7 +166,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./author/40971220.html</loc>
-<lastmod>2024-04-11T07:16:40+08:06</lastmod>
+<lastmod>2024-04-11T07:20:48+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
