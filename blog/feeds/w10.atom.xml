@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40971220協同產品設計實習 - w10</title><link href="./" rel="alternate"></link><link href="./feeds/w10.atom.xml" rel="self"></link><id>./</id><updated>2024-05-07T06:23:30+08:00</updated><entry><title>W10</title><link href="./2024-Spring-40971220-w10-blog-tutorial.html" rel="alternate"></link><published>2024-04-25T11:00:00+08:00</published><updated>2024-05-07T06:23:30+08:00</updated><author><name>40971220</name></author><id>tag:None,2024-04-25:./2024-Spring-40971220-w10-blog-tutorial.html</id><content type="html">&lt;p&gt;實習任務一
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40971220協同產品設計實習 - w10</title><link href="./" rel="alternate"></link><link href="./feeds/w10.atom.xml" rel="self"></link><id>./</id><updated>2024-05-22T06:18:30+08:00</updated><entry><title>W10</title><link href="./2024-Spring-40971220-w10-blog-tutorial.html" rel="alternate"></link><published>2024-04-25T11:00:00+08:00</published><updated>2024-05-22T06:18:30+08:00</updated><author><name>40971220</name></author><id>tag:None,2024-04-25:./2024-Spring-40971220-w10-blog-tutorial.html</id><content type="html">&lt;p&gt;實習任務一
 建立各班學員的倉儲、網站與分組連結&lt;/p&gt;
 &lt;p&gt;實習任務二
 請下載 cd2024_ball_balancing_platform_control_ref.7z, 閱讀後請將摘要內容放入個人與分組網誌中.&lt;/p&gt;
@@ -151,5 +151,6 @@ QUARC模擬與實現
 強調研究的貢獻和意義，以及可能的未來研究方向。
 總結：
 這篇文章討論了使用QUARC控制2D球平衡器的方法和實驗結果。通過對不同控制算法的比較和實驗結果的分析，我們可以得出結論：某些控制算法在穩定性和響應速度上表現更優，但也存在改進的空間。本研究的結果對於控制理論和工程應用具有重要的參考價值，未來可以進一步優化控制算法，擴展應用範圍，以實現更高效的系統控制。&lt;/p&gt;
-&lt;p&gt;實習任務三:鋼球平衡台零組件繪圖&lt;/p&gt;
+&lt;p&gt;實習任務三:鋼球平衡台零組件繪圖
+&lt;a href="https://1drv.ms/f/s!Agzcw-HLEDelhC-meWjbDDBhP4iD?e=19SgKV"&gt;組件繪圖&lt;/a&gt;&lt;/p&gt;
 </content><category term="w10"></category><category term="期中考"></category></entry></feed>
