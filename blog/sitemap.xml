@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2024-06-06T08:17:45-00:00</lastmod>
+<lastmod>2024-06-06T13:13:53-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2024-06-06T08:17:45-00:00</lastmod>
+<lastmod>2024-06-06T13:13:53-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2024-06-06T08:17:45-00:00</lastmod>
+<lastmod>2024-06-06T13:13:53-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2024-06-06T08:17:45-00:00</lastmod>
+<lastmod>2024-06-06T13:13:53-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -40,7 +40,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./2024-Spring-40971220-w16-blog-tutorial.html</loc>
-<lastmod>2024-06-06T08:17:31+08:00</lastmod>
+<lastmod>2024-06-06T13:13:39+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -194,7 +194,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./category/w16.html</loc>
-<lastmod>2024-06-06T11:00:00+08:06</lastmod>
+<lastmod>2024-06-06T13:13:39+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -250,7 +250,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./tag/ji-qi-ren-ling-zu-jian-hui-zhi.html</loc>
-<lastmod>2024-06-06T11:00:00+08:06</lastmod>
+<lastmod>2024-06-06T13:13:39+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -341,7 +341,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./author/40971220.html</loc>
-<lastmod>2024-06-06T11:00:00+08:06</lastmod>
+<lastmod>2024-06-06T13:13:39+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
